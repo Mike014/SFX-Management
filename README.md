@@ -6,6 +6,19 @@ This document describes the functionalities of the different pages in the Django
 
 The "Sfx Management with Django" project is a management system for handling sound effects. Users can upload new sound effects, view a list of uploaded files, and listen to the files directly from the browser. The application uses Django as the backend framework and includes features for managing media files.
 
+## How to Use the Application
+
+To start using the application locally, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Mike014/SFX-Management.git  # URL of the repository
+   cd SFX-Management  # Enter the repository directory
+
+1. **Start the Development Server:**
+   ```bash
+   python manage.py runserver  # Start the development server
+
 ## Home Page
 
 - **URL:** [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
@@ -44,3 +57,6 @@ The "Sfx Management with Django" project is a management system for handling sou
 - Navigation links are present on the home page to facilitate access to other pages of the site.
 
 If you need further information or assistance, feel free to ask!
+
+   
+
